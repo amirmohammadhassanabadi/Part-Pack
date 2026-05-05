@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "hasanabadi.am1380@gmail.com",
   "license": "ISC",
-  "description": "Part-Pack App"
+  "description": "Part-Pack App",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
